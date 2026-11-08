@@ -202,4 +202,4 @@ This repository serves as the official landing page for Academia. The software i
 **Get the most recent version of Academia today!**
 
 ---
-**Last updated:** 2026-11-08 10:00:10 UTC
+**Last updated:** 2026-11-08 16:57:39 UTC
